@@ -28,6 +28,7 @@ POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir dir_writable vcs vi_mode)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status ram load time)
 #POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(battery)
 
+alias vscode="/Users/nuc/Downloads/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
