@@ -93,7 +93,7 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
+source ~/.bash_profile
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
