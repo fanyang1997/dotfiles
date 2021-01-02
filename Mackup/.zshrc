@@ -10,6 +10,9 @@ export PATH=~/miniconda3//bin/:$PATH
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="powerlevel9k/powerlevel9k"
 
+export http_proxy="http://127.0.0.1:7890";
+export https_proxy="http://127.0.0.1:7890";
+
 [[ $- != *i* ]] && return
 [[ -z "$TMUX" ]] && exec tmux
 
